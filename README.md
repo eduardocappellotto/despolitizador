@@ -8,7 +8,7 @@
 
 > To translate political language for people's language
 
-[View project](https://despolitizador.felipefialho.com/despolitizador/)
+[View project](https://despolitizador.felipefialho.com/)
 
 ## Add new words
 
